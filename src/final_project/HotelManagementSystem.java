@@ -53,7 +53,7 @@ public class HotelManagementSystem {
 
             switch (choice) {
                 case 1:
-                    System.out.print("\nEnter guest name: ");
+                    System.out.print("\nEnter guest First name: ");
                     String name = scanner.next();
                     System.out.print("Enter guest emailaddress: ");
                     String address = scanner.next();
